@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently studying Software Engineering at the CODE University of Applied Sciences<br>
+🎓 Software Engineering at the CODE University of Applied Sciences<br>
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FlorianGrollich&theme=dark&hide_border=true)<br/>
 
