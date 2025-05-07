@@ -1,12 +1,3 @@
 ## Tic Tac Toe
 
-[![](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/field/0)](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/action/0)
-[![](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/field/1)](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/action/1)
-[![](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/field/2)](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/action/2)  
-[![](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/field/3)](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/action/3)
-[![](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/field/4)](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/action/4)
-[![](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/field/5)](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/action/5)  
-[![](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/field/6)](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/action/6)
-[![](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/field/7)](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/action/7)
-[![](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/field/8)](https://arkownames-floriangrollich486-s2xq3krs.leapcell.dev/action/8)
 
