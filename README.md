@@ -1,6 +1,4 @@
-## Tic Tac Toe
-
-
+## Play a round of Tic Tac Toe by just clicking on a tile:
 
 
 [![](https://arkownames-floriangrollich486-y18bijhi.leapcell.dev/field/0)](https://arkownames-floriangrollich486-y18bijhi.leapcell.dev/action/0)
